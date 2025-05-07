@@ -2,6 +2,8 @@
 
 DomiNetec é um portal de conteúdo sobre segurança digital, produtividade e finanças pessoais com foco em ferramentas acessíveis e gratuitas.
 
+https://dominetec.com.br/gerenciador-de-senhas/
+
 👉 [How to Make Money Online Honestly](https://dominetec.com.br/como-ganhar-dinheiro-na-internet-de-forma-honesta/)
 
 👉 [10 Digital Security Best Practices Everyone Should Follow](https://dominetec.com.br/10-boas-praticas-de-seguranca-digital-que-todos-deveriam-adotar/)
